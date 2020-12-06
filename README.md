@@ -8,7 +8,7 @@
 ## Introduction
 
 You may already be familiar with the concept of pivot tables from Excel to quickly slice, filter, and group data in an efficient way.
-In the first part of this lab, you will use Pandas pivot table to extract insights from your data. In the second part of this lab you will learn to describe the strengh and direction of the relationship between two variables. Correlation analysis measures how two variables are related.
+In the first part of this lab, you will use Pandas pivot table to extract insights from your data. In the second part of this lab you will learn to describe the strength and direction of the relationship between two variables. Correlation analysis measures how two variables are related.
 
 ## Getting Started
 
